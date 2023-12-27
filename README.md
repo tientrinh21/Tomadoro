@@ -3,7 +3,6 @@
 Tomadoro is an app help students keep track of todo tasks and let them focus on studying with Pomodoro method.
 
 ## Table of contents
-- [The challenge](#the-challenge)
 - [Screenshots](#screenshots)
 - [Built with](#built-with)
 - [Demo](#demo)
